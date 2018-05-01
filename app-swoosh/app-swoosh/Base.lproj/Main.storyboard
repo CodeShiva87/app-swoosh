@@ -84,10 +84,6 @@
                             <constraint firstItem="Yiy-Kd-LNM" firstAttribute="width" secondItem="rfL-0V-qnU" secondAttribute="width" id="qpv-Hs-BwE"/>
                         </constraints>
                     </view>
-                    <connections>
-                        <outlet property="bgImg" destination="K1E-6W-kNj" id="8Me-y9-xgd"/>
-                        <outlet property="swoosh" destination="O2G-iW-Ql3" id="ptc-5s-SCY"/>
-                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
